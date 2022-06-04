@@ -4,5 +4,3 @@ athleteType, avarageNumberOfParticipant, timeOfRoundInMinutes, numberOfTry
 JUMPS, 37, 5.7, 5
 athleteType, avarageNumberOfParticipant, timeOfRoundInMinutes, weightInKg
 THROWS, 40, 4.5, 25.5
-athleteType, avarageNumberOfParticipant, timeOfRoundInMinutes
-NULL, 100, 20.5
